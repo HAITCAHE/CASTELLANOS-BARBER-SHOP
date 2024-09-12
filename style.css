@@ -1,0 +1,14 @@
+img{
+    width: 30px;
+    height: 30px;
+}
+h1{ 
+    background-color: black;
+}
+body{
+    background-image: url("images/IMG-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:#ffffff
+}
